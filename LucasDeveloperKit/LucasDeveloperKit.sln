@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LucasDeveloperKit.CSharp", "LucasDeveloperKit.CSharp.csproj", "{5350D7A1-568A-F8DB-243D-6B100A31A7B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LucasDeveloperKit.CSharp.Editor", "LucasDeveloperKit.CSharp.Editor.csproj", "{BA71FDBF-D068-A858-0B75-D1B346467151}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5350D7A1-568A-F8DB-243D-6B100A31A7B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5350D7A1-568A-F8DB-243D-6B100A31A7B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5350D7A1-568A-F8DB-243D-6B100A31A7B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5350D7A1-568A-F8DB-243D-6B100A31A7B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA71FDBF-D068-A858-0B75-D1B346467151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA71FDBF-D068-A858-0B75-D1B346467151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA71FDBF-D068-A858-0B75-D1B346467151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA71FDBF-D068-A858-0B75-D1B346467151}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
